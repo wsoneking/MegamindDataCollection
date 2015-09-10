@@ -1,0 +1,89 @@
+Wed Dec 17 23:46:01.330 [initandlisten] MongoDB starting : pid=3947 port=27017 dbpath=/home/bo/node/nodetest1/data/ 64-bit host=MegaMIND
+Wed Dec 17 23:46:01.330 [initandlisten] db version v2.4.9
+Wed Dec 17 23:46:01.330 [initandlisten] git version: nogitversion
+Wed Dec 17 23:46:01.330 [initandlisten] build info: Linux orlo 3.2.0-58-generic #88-Ubuntu SMP Tue Dec 3 17:37:58 UTC 2013 x86_64 BOOST_LIB_VERSION=1_54
+Wed Dec 17 23:46:01.330 [initandlisten] allocator: tcmalloc
+Wed Dec 17 23:46:01.330 [initandlisten] options: { dbpath: "/home/bo/node/nodetest1/data/" }
+Wed Dec 17 23:46:01.332 [initandlisten] journal dir=/home/bo/node/nodetest1/data/journal
+Wed Dec 17 23:46:01.332 [initandlisten] recover : no journal files present, no recovery needed
+Wed Dec 17 23:46:01.393 [initandlisten] waiting for connections on port 27017
+Wed Dec 17 23:46:01.393 [websvr] admin web console waiting for connections on port 28017
+Wed Dec 17 23:47:14.965 [initandlisten] connection accepted from 127.0.0.1:36459 #6 (1 connection now open)
+Wed Dec 17 23:47:14.979 [conn6] end connection 127.0.0.1:36459 (0 connections now open)
+Wed Dec 17 23:47:14.984 [initandlisten] connection accepted from 127.0.0.1:36460 #7 (1 connection now open)
+Wed Dec 17 23:47:14.987 [initandlisten] connection accepted from 127.0.0.1:36461 #8 (2 connections now open)
+Wed Dec 17 23:47:14.991 [initandlisten] connection accepted from 127.0.0.1:36462 #9 (3 connections now open)
+Wed Dec 17 23:47:14.992 [initandlisten] connection accepted from 127.0.0.1:36463 #10 (4 connections now open)
+Wed Dec 17 23:47:14.993 [initandlisten] connection accepted from 127.0.0.1:36464 #11 (5 connections now open)
+Wed Dec 17 23:47:57.848 [conn7] end connection 127.0.0.1:36460 (4 connections now open)
+Wed Dec 17 23:47:57.848 [conn8] end connection 127.0.0.1:36461 (3 connections now open)
+Wed Dec 17 23:47:57.848 [conn9] end connection 127.0.0.1:36462 (2 connections now open)
+Wed Dec 17 23:47:57.849 [conn10] end connection 127.0.0.1:36463 (1 connection now open)
+Wed Dec 17 23:47:57.849 [conn11] end connection 127.0.0.1:36464 (0 connections now open)
+Wed Dec 17 23:55:11.491 [initandlisten] connection accepted from 127.0.0.1:36467 #12 (1 connection now open)
+Wed Dec 17 23:55:11.504 [conn12] end connection 127.0.0.1:36467 (0 connections now open)
+Wed Dec 17 23:55:11.514 [initandlisten] connection accepted from 127.0.0.1:36468 #13 (1 connection now open)
+Wed Dec 17 23:55:11.515 [initandlisten] connection accepted from 127.0.0.1:36469 #14 (2 connections now open)
+Wed Dec 17 23:55:11.518 [initandlisten] connection accepted from 127.0.0.1:36470 #15 (3 connections now open)
+Wed Dec 17 23:55:11.519 [initandlisten] connection accepted from 127.0.0.1:36471 #16 (4 connections now open)
+Wed Dec 17 23:55:11.520 [initandlisten] connection accepted from 127.0.0.1:36472 #17 (5 connections now open)
+Wed Dec 17 23:55:53.194 [conn13] end connection 127.0.0.1:36468 (4 connections now open)
+Wed Dec 17 23:55:53.194 [conn14] end connection 127.0.0.1:36469 (3 connections now open)
+Wed Dec 17 23:55:53.194 [conn15] end connection 127.0.0.1:36470 (2 connections now open)
+Wed Dec 17 23:55:53.195 [conn16] end connection 127.0.0.1:36471 (1 connection now open)
+Wed Dec 17 23:55:53.195 [conn17] end connection 127.0.0.1:36472 (0 connections now open)
+Thu Dec 18 00:04:28.085 [initandlisten] connection accepted from 127.0.0.1:36473 #18 (1 connection now open)
+Thu Dec 18 00:04:28.100 [conn18] end connection 127.0.0.1:36473 (0 connections now open)
+Thu Dec 18 00:04:28.105 [initandlisten] connection accepted from 127.0.0.1:36474 #19 (1 connection now open)
+Thu Dec 18 00:04:28.106 [initandlisten] connection accepted from 127.0.0.1:36475 #20 (2 connections now open)
+Thu Dec 18 00:04:28.107 [initandlisten] connection accepted from 127.0.0.1:36476 #21 (3 connections now open)
+Thu Dec 18 00:04:28.108 [initandlisten] connection accepted from 127.0.0.1:36477 #22 (4 connections now open)
+Thu Dec 18 00:04:28.109 [initandlisten] connection accepted from 127.0.0.1:36478 #23 (5 connections now open)
+Thu Dec 18 00:05:03.267 [initandlisten] connection accepted from 127.0.0.1:36479 #24 (6 connections now open)
+Thu Dec 18 00:06:19.645 [conn24] end connection 127.0.0.1:36479 (5 connections now open)
+Thu Dec 18 00:06:32.445 [conn19] end connection 127.0.0.1:36474 (4 connections now open)
+Thu Dec 18 00:06:32.445 [conn20] end connection 127.0.0.1:36475 (3 connections now open)
+Thu Dec 18 00:06:32.446 [conn21] end connection 127.0.0.1:36476 (2 connections now open)
+Thu Dec 18 00:06:32.446 [conn22] end connection 127.0.0.1:36477 (1 connection now open)
+Thu Dec 18 00:06:32.446 [conn23] end connection 127.0.0.1:36478 (0 connections now open)
+Thu Dec 18 00:07:05.511 [initandlisten] connection accepted from 127.0.0.1:36480 #25 (1 connection now open)
+Thu Dec 18 00:07:05.523 [conn25] end connection 127.0.0.1:36480 (0 connections now open)
+Thu Dec 18 00:07:05.528 [initandlisten] connection accepted from 127.0.0.1:36481 #26 (1 connection now open)
+Thu Dec 18 00:07:05.529 [initandlisten] connection accepted from 127.0.0.1:36482 #27 (2 connections now open)
+Thu Dec 18 00:07:05.530 [initandlisten] connection accepted from 127.0.0.1:36483 #28 (3 connections now open)
+Thu Dec 18 00:07:05.530 [initandlisten] connection accepted from 127.0.0.1:36484 #29 (4 connections now open)
+Thu Dec 18 00:07:05.531 [initandlisten] connection accepted from 127.0.0.1:36485 #30 (5 connections now open)
+Thu Dec 18 00:10:46.141 [initandlisten] connection accepted from 74.93.227.197:54784 #31 (6 connections now open)
+Thu Dec 18 00:10:46.149 [conn31] end connection 74.93.227.197:54784 (5 connections now open)
+Thu Dec 18 00:10:46.167 [initandlisten] connection accepted from 74.93.227.197:54783 #32 (6 connections now open)
+Thu Dec 18 00:10:46.257 [conn32] end connection 74.93.227.197:54783 (5 connections now open)
+Thu Dec 18 06:39:06.053 [PeriodicTask::Runner] task: DBConnectionPool-cleaner took: 99ms
+Thu Dec 18 06:39:13.053 [PeriodicTask::Runner] task: WriteBackManager::cleaner took: 1599ms
+Thu Dec 18 06:39:26.752 [TTLMonitor] query admin.system.indexes query: { expireAfterSeconds: { $exists: true } } ntoreturn:0 ntoskip:0 nscanned:0 keyUpdates:0 locks(micros) r:7240576 nreturned:0 reslen:20 5542ms
+Thu Dec 18 11:37:51.885 [initandlisten] connection accepted from 159.182.183.6:36598 #39 (6 connections now open)
+Thu Dec 18 11:37:52.100 [initandlisten] connection accepted from 159.182.183.6:41190 #40 (7 connections now open)
+Thu Dec 18 11:38:12.971 [initandlisten] connection accepted from 159.182.183.6:57846 #41 (8 connections now open)
+Thu Dec 18 11:38:13.094 [initandlisten] connection accepted from 159.182.183.6:58089 #42 (9 connections now open)
+Thu Dec 18 11:39:10.392 [conn41] end connection 159.182.183.6:57846 (8 connections now open)
+Thu Dec 18 11:39:10.392 [conn42] end connection 159.182.183.6:58089 (8 connections now open)
+Thu Dec 18 11:39:10.455 [conn39] end connection 159.182.183.6:36598 (6 connections now open)
+Thu Dec 18 11:39:10.455 [conn40] end connection 159.182.183.6:41190 (5 connections now open)
+Thu Dec 18 21:41:28.334 [signalProcessingThread] got signal 15 (Terminated), will terminate after current cmd ends
+Thu Dec 18 21:41:28.335 [signalProcessingThread] now exiting
+Thu Dec 18 21:41:28.335 dbexit: 
+Thu Dec 18 21:41:28.335 [signalProcessingThread] shutdown: going to close listening sockets...
+Thu Dec 18 21:41:28.335 [signalProcessingThread] closing listening socket: 9
+Thu Dec 18 21:41:28.335 [signalProcessingThread] closing listening socket: 10
+Thu Dec 18 21:41:28.335 [signalProcessingThread] closing listening socket: 11
+Thu Dec 18 21:41:28.335 [signalProcessingThread] removing socket file: /tmp/mongodb-27017.sock
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: going to flush diaglog...
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: going to close sockets...
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: waiting for fs preallocator...
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: lock for final commit...
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: final commit...
+Thu Dec 18 21:41:28.336 [signalProcessingThread] shutdown: closing all files...
+Thu Dec 18 21:41:28.339 [signalProcessingThread] closeAllFiles() finished
+Thu Dec 18 21:41:28.339 [signalProcessingThread] journalCleanup...
+Thu Dec 18 21:41:28.346 [signalProcessingThread] removeJournalFiles
+Thu Dec 18 21:41:28.349 [signalProcessingThread] shutdown: removing fs lock...
+Thu Dec 18 21:41:28.349 dbexit: really exiting now

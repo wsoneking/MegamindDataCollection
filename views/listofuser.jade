@@ -1,0 +1,13 @@
+extends layout
+
+block content
+	h1.
+		Message list 
+	form#formAddMessage(name="addmessage",method="post",action="/addmessage")
+		input#inputMessage(type="text", placeholder="message", name="message")
+		button#btnSubmit(type="submit") submit
+	ul
+		each msg, i in messages
+			li
+				p= msg.date  
+				p= msg.message 
